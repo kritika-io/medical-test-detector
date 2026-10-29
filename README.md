@@ -15,15 +15,13 @@ An interactive web application built as part of Stanford University's **Probabil
 
 ## 📸 App Preview
 
-> *Add screenshots of your application here to give visitors a quick look at the user interface!*
-
 | Overview & Pre-loaded Tests | Frequency Tree & Probability Breakdown |
 | :---: | :---: |
-| ![App Overview](assets/overview.png) | ![Frequency Tree](assets/frequency_tree.png) |
+| ![App Overview](image1.png) | ![Frequency Tree](image3.png) |
 
-| Bayes' Theorem Calculation | Custom Test Lookup |
+| Bayes' Theorem Calculation | Final Result |
 | :---: | :---: |
-| ![Bayes Formula](assets/bayes_formula.png) | ![Custom Test Lookup](assets/lookup.png) |
+| ![Bayes Formula](image2.png) | ![Final Result](image4.png) |
 
 ---
 
@@ -40,7 +38,7 @@ $$P(D|T) = \frac{P(T|D) \cdot P(D)}{P(T|D) \cdot P(D) + P(T|D^c) \cdot P(D^c)}$$
 ---
 
 ## 🛠️ Tech Stack & Concepts
-* **Frontend:** HTML, CSS, JavaScript / Interactive UI components
+* **Frontend:** Interactive UI components
 * **Core Logic:** Probability theory, Bayesian inference, natural frequency scaling
 * **Course:** Stanford University – Probability for Artificial Intelligence
 
