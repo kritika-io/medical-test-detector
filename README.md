@@ -15,13 +15,13 @@ An interactive web application built as part of Stanford University's **Probabil
 
 ## 📸 App Preview
 
-| Overview & Pre-loaded Tests | Frequency Tree & Probability Breakdown |
+| Overview & Pre-loaded Tests | Bayes' Theorem Calculation & Probability Breakdown |
 | :---: | :---: |
 | ![App Overview](bayes'calc/image1.png) | ![Frequency Tree](bayes'calc/image3.png) |
 
-| Bayes' Theorem Calculation | Final Result |
+| The Inputs | Final Result |
 | :---: | :---: |
-| ![Bayes Formula](bayes'calc/image2.png) | ![Final Result](bayes'calc/image4.png) |
+| ![The inputs](bayes'calc/image2.png) | ![Final Result](bayes'calc/image5.png) |
 
 ---
 
