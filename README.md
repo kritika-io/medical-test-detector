@@ -17,11 +17,11 @@ An interactive web application built as part of Stanford University's **Probabil
 
 | Overview & Pre-loaded Tests | Frequency Tree & Probability Breakdown |
 | :---: | :---: |
-| ![App Overview](image1.png) | ![Frequency Tree](image3.png) |
+| ![App Overview](bayes'calc/image1.png) | ![Frequency Tree](bayes'calc/image3.png) |
 
 | Bayes' Theorem Calculation | Final Result |
 | :---: | :---: |
-| ![Bayes Formula](image2.png) | ![Final Result](image4.png) |
+| ![Bayes Formula](bayes'calc/image2.png) | ![Final Result](bayes'calc/image4.png) |
 
 ---
 
